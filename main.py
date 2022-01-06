@@ -14,8 +14,8 @@ window.title("Login to cyberfriend")
 
 ## you can connect to database instad of dict
 users = {
-    "Eliot" : {
-        "password": "Eliot1234"
+    "Razi" : {
+        "password": "Razi1234"
     }
 }
 
