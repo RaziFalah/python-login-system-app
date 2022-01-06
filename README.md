@@ -11,3 +11,7 @@ simple login gui made with tkinter library
 the program can tell whcih credit line is inccorect and feedback you using a lable
 the gui includs colors also
 the program will auto-fullscreend it self
+
+<h1>Exit</h1>
+
+type exit in the username section to exit the program
