@@ -38,6 +38,8 @@ def submit():
                     master=login_frm
                 )
                 wrong.pack()
+        elif user == "exit":
+            exit()
         else:
             unfound = tk.Label(
                 text="Invaild username",
